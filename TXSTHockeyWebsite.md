@@ -1,4 +1,4 @@
-I redesigned the Texas State University Hockey Team's website.
+I redesigned the Texas State University's Hockey Team's website.
 <br />Website was shut down due to lack of funding in May 2021. 
 <br />Here are the screenshots of every page that I made or changed.
 
